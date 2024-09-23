@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jathin</h1>
 <h3 align="center">Software engineering enthusiast with a deep interest in AI and scalable system design.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jathinsn27&label=Profile%20views&color=0e75b6&style=flat" alt="jathinsn27" /> </p>
-
 - 🌱 I’m currently **pursuing my masters in computer science at San Jose State University**
 
 - 👨‍💻 I’m Interested **in AI, ML, and distributed systems**
